@@ -1,4 +1,4 @@
-#trying to build a app thats gives a user rans=dom number to prints
+#trying to build a app thats gives a user random number to prints
 from random import randint
 x=randint(1,100)
 y=randint(1,100)
